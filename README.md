@@ -10,7 +10,6 @@ A production-ready RESTful backend for personal finance and expense tracking bui
 - Budget Tracking
 - Financial Summary
 - Monthly Analytics
-- AI-based Saving Suggestions
 - Request Validation
 - Rate Limiting
 - Error Handling
@@ -77,19 +76,3 @@ npm run dev
 ```
 http://localhost:5000/api/v1
 ```
-
-## Team Members
-
-| Member   | Responsibility            |
-| -------- | ------------------------- |
-| Member 1 | User Authentication       |
-| Member 2 | Transactions              |
-| Member 3 | Middleware                |
-| Member 4 | Analytics & Documentation |
-
-## Deliverables
-
-- Public GitHub Repository
-- README
-- Postman Collection
-- Test Cases
